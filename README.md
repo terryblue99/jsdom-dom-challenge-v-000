@@ -2,7 +2,7 @@
 
 If you open up index.html in the browser, you'll find a small application. It has a few features:
 
-* A Counter that increases by 1 each second
+* A Counter that increases by 1 for each second
 * Plus and Minus buttons that increment or decrement the counter
 * A 'like' button (❤️) that adds a 'like' for the number that is currently displayed by the timer
 * A comment box that adds comments when submitted
